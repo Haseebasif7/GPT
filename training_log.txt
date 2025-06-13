@@ -1,0 +1,28 @@
+Trained on Collab :(  
+
+step 0: train loss 4.3132, val loss 4.3112
+step 200: train loss 2.4058, val loss 2.4271
+step 400: train loss 2.0788, val loss 2.1397
+step 600: train loss 1.8350, val loss 1.9529
+step 800: train loss 1.6865, val loss 1.8372
+step 1000: train loss 1.5837, val loss 1.7595
+step 1200: train loss 1.5062, val loss 1.6861
+step 1400: train loss 1.4540, val loss 1.6440
+step 1600: train loss 1.4100, val loss 1.6136
+step 1800: train loss 1.3760, val loss 1.5900
+step 2000: train loss 1.3448, val loss 1.5649
+step 2200: train loss 1.3214, val loss 1.5505
+step 2400: train loss 1.2922, val loss 1.5326
+step 2600: train loss 1.2740, val loss 1.5291
+step 2800: train loss 1.2562, val loss 1.5198
+step 3000: train loss 1.2404, val loss 1.5112
+step 3200: train loss 1.2255, val loss 1.5003
+step 3400: train loss 1.2108, val loss 1.4905
+🔁 Switching to SGD at iteration 3500
+step 3600: train loss 1.2016, val loss 1.4947
+step 3800: train loss 1.2004, val loss 1.4860
+step 4000: train loss 1.1999, val loss 1.4937
+step 4200: train loss 1.2016, val loss 1.4941
+step 4400: train loss 1.2011, val loss 1.4846
+step 4600: train loss 1.1995, val loss 1.4914
+step 4800: train loss 1.1978, val loss 1.4893
