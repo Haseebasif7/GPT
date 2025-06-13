@@ -1,5 +1,3 @@
-# 🔥 GPT
-
 It’s built using **pure tensor operations** to help you deeply understand how GPT models work under the hood — including self-attention, feedforward networks, layer norm, and more.
 
 ---
